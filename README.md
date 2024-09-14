@@ -8,9 +8,6 @@ This project is an API documentation site that provides a user interface for man
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -21,7 +18,6 @@ This project is an API documentation site that provides a user interface for man
 - Display requests by HTTP method (GET, POST, PUT, DELETE).
 
 ## Getting Started
-
 
 
 ### Installation
